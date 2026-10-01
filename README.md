@@ -9,12 +9,15 @@
 
 ## Tabela de Exercícios e Comprovações
 
-| Nº | Nome do Desafio / Lição | Breve Explicação | Status na Plataforma | Imagem Comprobatória |
+| Nº | Nome do Desafio / Lição | Breve Explicação | Status na Plataforma | Imagem |
 | :---: | :--- | :--- | :---: | :---: |
-| 01 | Construa um App de Fotos de Gatos | Painel de progresso do currículo de HTML, mostrando os passos já concluídos no módulo
-| 02 | Construa um App de Fotos de Gatos | Continuação do exercício, avançando na estrutura da página com novos elementos HTML 
-| 03 | Construa um App de Fotos de Gatos | Conclusão de mais um bloco de passos do exercício
+| 01 | Construa um App de Fotos de Gatos | Painel de progresso do currículo de HTML, mostrando os passos já concluídos no módulo | Aprovado | [Ver Imagem](./prints/img1.png) |
+| 02 | Construa um App de Fotos de Gatos | Continuação do exercício, avançando na estrutura da página com novos elementos HTML | Aprovado | [Ver Imagem](./prints/img2.png) |
+| 03 | Construa um App de Fotos de Gatos | Conclusão de mais um bloco de passos do exercício | Aprovado | [Ver Imagem](./prints/img3.png) |
 
 ## Resumo dos Conceitos Praticados
 
 "Durante os exercícios, a maior dificuldade foi  entender a diferença entre h1 e h2, lembrar de fechar as tags corretamente, fazer o texto ficar idêntico ao pedido. As estruturas que mais usei foram as tags h1, h2, p, que servem para organizar títulos e parágrafos da página"
+
+
+
